@@ -11,7 +11,7 @@ git clone https://github.com/lemmebe/easynmap.git
 ```
 bash nmapeasy.sh
 ```
-## VERSION
+## LICENSE 
 Easynmap is licensed under the GNU GPL license.
 ## CREDIT
 This tool is based on nmap scripts.
