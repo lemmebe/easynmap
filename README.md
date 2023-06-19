@@ -7,3 +7,4 @@ Easy Nmap is a bash tool created to simplify the process of using nmap. It aids
 ```
 git clone https://github.com/lemmebe/easynmap.git
 ```
+## USAGE
